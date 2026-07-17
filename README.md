@@ -261,4 +261,4 @@ SEGURIDAD
 LLEVAR del ENTORNO PREPRODUCTIVO a PRODUCCION .
 ##################################################################################################
 
-
+Con el archivo deploy-explorer.yml se llevan los archivos .py de PRE hacia PROD 
