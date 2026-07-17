@@ -1,0 +1,51 @@
+employee_id,first_name,last_name,position,branch_id
+1,Joshua,Tyler,Supervisor,8
+2,Joshua,Turner,Sales Representative,8
+3,Ronald,Reyes,Supervisor,7
+4,Angela,Santiago,Supervisor,9
+5,Mary,Crawford,Store Manager,8
+6,Meredith,Thompson,Sales Representative,10
+7,Yolanda,Cook,Sales Representative,7
+8,Daniel,Smith,Supervisor,10
+9,Laura,Moore,Supervisor,1
+10,Rebecca,Santana,Sales Representative,4
+11,Matthew,Taylor,Sales Representative,5
+12,Nathaniel,Ferguson,Sales Representative,3
+13,Sean,Wallace,Store Manager,9
+14,Christopher,Lutz,Store Manager,5
+15,Tanya,Anderson,Cashier,10
+16,Cody,Stout,Store Manager,8
+17,Breanna,Huffman,Sales Representative,8
+18,Natalie,Houston,Supervisor,7
+19,Makayla,Thomas,Supervisor,6
+20,Ricky,Miller,Sales Representative,3
+21,Kelly,Jackson,Supervisor,7
+22,Billy,Hooper,Store Manager,5
+23,Andrea,Kelley,Store Manager,9
+24,Amy,Hess,Sales Representative,8
+25,Randy,Gonzalez,Sales Representative,6
+26,Barbara,Mcguire,Supervisor,6
+27,Scott,Maldonado,Sales Representative,7
+28,Sheila,Chavez,Sales Representative,9
+29,Anthony,Barker,Store Manager,7
+30,Bruce,Boyd,Sales Representative,4
+31,Michael,Maldonado,Supervisor,10
+32,Nathaniel,Mullins,Store Manager,8
+33,Rachel,Garcia,Sales Representative,4
+34,Ian,Shaw,Supervisor,9
+35,Cynthia,Horton,Cashier,5
+36,Amy,Day,Store Manager,8
+37,Dylan,Cervantes,Sales Representative,1
+38,Sandra,Brooks,Cashier,3
+39,Morgan,Willis,Supervisor,9
+40,Chelsea,Powell,Sales Representative,9
+41,Brian,Garcia,Store Manager,2
+42,Tamara,Lopez,Cashier,2
+43,Rebecca,Curry,Store Manager,2
+44,Manuel,Huang,Cashier,8
+45,Sarah,Kennedy,Supervisor,9
+46,Gabriella,Beck,Supervisor,7
+47,Rose,Lawrence,Store Manager,8
+48,Melissa,Herrera,Cashier,8
+49,Chad,Massey,Cashier,7
+50,Rebecca,Johnson,Cashier,10
