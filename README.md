@@ -221,3 +221,13 @@ Optimizada para consultas analíticas.
 Lista para herramientas de visualización.
 Preparada para la construcción de dashboards e indicadores ejecutivos.
 
+
+#########################################################################################
+DASHBOARD
+##########################################################################################
+
+## Dashboard
+
+El dashboard final construido en Power BI muestra los principales KPI de ventas.
+
+![Dashboard](dashboard/dashboard.png)
