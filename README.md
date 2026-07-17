@@ -231,3 +231,34 @@ DASHBOARD
 El dashboard final construido en Power BI muestra los principales KPI de ventas.
 
 ![Dashboard](dashboard/dashboard.png)
+
+
+##############################################################################################
+REVERSIONES 
+###############################################################################################
+
+Orden de ejecución
+
+1. 01_drop_gold.sql
+2. 02_drop_silver.sql
+3. 03_drop_bronze.sql
+4. 04_drop_schemas.sql
+5. 05_drop_catalog.sql
+
+Estos scripts permiten eliminar el entorno de manera segura respetando las dependencias entre objetos.
+
+#################################################################################################
+SEGURIDAD 
+################################################################################################
+
+01_Create_Groups.py       : Creación de grupos de usuarios.
+02_Grant_Permissions.py   : Asignación de permisos en Unity Catalog.
+03_Row_Level_Security.py  : Ejemplo de seguridad a nivel de filas.
+04_Audit_Permissions.py   : Auditoría de permisos sobre objetos .
+05_Data_Access_Report.py  : Reporte consolidado de accesos y permisos.
+
+##################################################################################################
+LLEVAR del ENTORNO PREPRODUCTIVO a PRODUCCION .
+##################################################################################################
+
+
